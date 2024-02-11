@@ -1,0 +1,263 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+/* ========================
+      start header part
+======================== */
+#hero {
+  background: url(../image/header.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: auto;
+  padding: 180px 0;
+}
+#hero .containt .title {
+  font-weight: 400;
+  font-family: Montserrat;
+  font-size: 36px;
+}
+#hero .containt .description {
+  font-weight: 400;
+  font-family: Open sans;
+  font-size: 16px;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+#hero .containt .btn {
+  color: #d98b0d;
+}
+/* ========================
+      End header part
+======================== */
+
+
+
+
+/* ========================
+      start service ::part
+======================== */ 
+
+#service{
+    background:rgb(248, 241, 229);
+}
+
+#service .box .description{
+   color:  #999999; 
+}
+#service .box1, .box2, .box3{
+    margin-top: -100px;
+}
+
+/* ========================
+      End service ::part
+======================== */ */
+
+
+
+/* ========================
+      Start cost part
+======================== */ */
+#cost{
+  background: #F2F2F2;
+}
+#cost .per-month .title {
+  font-size: 90px;
+}
+#cost .per-month{
+  /* margin-left:150px; */
+}
+#cost .per-month .doler-icon {
+  color:  #F19A0E;
+  font-size: 36px;
+}
+#cost .per-month .line {
+background: black;
+padding: 1px 0;
+width: 95%;
+}
+#cost .per-month .btn { 
+  background: #F19A0E;
+
+  }
+  #cost .per-month .btn:hover { 
+    background: #ffffff;
+  color: rgb(17, 220, 220) !;
+    }
+/* ========================
+      End cost part
+========================  */
+
+
+/* ========================
+      start lagacy part
+========================  */
+#lagacy{
+  background: #ffebeb;
+}
+/* ========================
+      End lagacy part
+========================  */
+
+
+
+
+
+/* ========================
+      Start employ part
+========================  */
+.staf1{
+  background: url(../image/e-img-1.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.531);
+  background-blend-mode: multiply;
+  padding: 80px 0;               
+}
+.staf2{
+  background: url(../image/e-img-2.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.531);
+  background-blend-mode: multiply;
+
+  padding: 80px 0;
+}
+.staf3{
+  background: url(../image/e-img-3.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.531);
+  background-blend-mode: multiply;
+  padding: 80px 0;
+}
+.staf4{
+  background: url(../image/e-img-4.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.531);
+  background-blend-mode: multiply;
+  padding: 80px 0;
+}
+#employ .staf .title{
+  margin-top: 150px;
+}
+/* ========================
+      End employ part
+========================  */
+
+/* ========================
+      start buisness part
+========================  */
+#buisness{
+  background: #ffebeb;
+}
+#buisness .containt{
+ line-height: 3;
+}
+
+
+
+/* ========================
+      End buisness part
+========================  */
+
+/* ========================
+      Start project-time
+========================  */
+.project-time{
+  background: url(../image/P-TIME.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.614);
+  background-blend-mode: multiply;
+  padding: 120px 0;
+}
+
+/* ========================
+     End project-time
+========================  */
+/* ========================
+     Start manager
+========================  */
+#manager{
+  background: #deddddd4;
+}
+#manager .containt{
+  padding: 180px 30px;
+}
+#manager .image{
+  margin-top: -150px;
+}
+
+/* ========================
+     End Manager
+========================  */
+/* ========================
+     Start company
+========================  */
+.logo .image{
+  width: 100px;
+  padding: 10px;
+}
+/* ========================
+     End company
+========================  */
+/* ========================
+     Start footer
+========================  */
+#footer{
+  background: url(../image/footer.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.614);
+  background-blend-mode: multiply;
+  
+
+}
+#footer .containt{
+  line-height: 4;
+  padding: 80px 0;
+}
+#footer .from{
+  line-height: 2;
+  padding: 80px 0;
+}
+
+#footer .from .btn{
+padding: 20px 112px;
+}
+#footer .from .btn:hover{
+background: white !important;
+color: black !important;
+}
+
+/* ========================
+     End footer
+========================  */
+
+/* ========================
+     Start footnote
+========================  */
+#footnote{
+  background: rgb(58, 54, 54);
+  padding: 50px;
+}
+
+/* ========================
+     End footnote
+========================  */
