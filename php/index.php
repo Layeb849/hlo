@@ -92,3 +92,10 @@
     // $numbers = [9, 5, 1, 15, 3];
     // sort($numbers);
     // echo ($numbers);
+
+    $str1 = "helloworld";
+    echo md5($str1);
+
+
+    // $str = "Hello";
+    // echo md5($str);
